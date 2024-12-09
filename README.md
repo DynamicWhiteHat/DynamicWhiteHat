@@ -5,6 +5,8 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Find me on other websites with a username starting with Dynamic or Quantum
 
+[![DynamicWhiteHat's GitHub stats](https://github-readme-stats.vercel.app/api?username=dynamicwhitehat)](https://github.com/dynamicwhitehat/github-readme-stats)
+
 <!---
 DynamicWhiteHat/DynamicWhiteHat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
