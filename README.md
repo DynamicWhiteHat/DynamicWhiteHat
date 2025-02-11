@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on backend dev or server management
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Find me on other websites with a username starting with Dynamic or Quantum
+- Visit <a href="https://dynamicwhitehat.github.io">My Page!</a>
 
 [![DynamicWhiteHat's GitHub stats](https://github-readme-stats.vercel.app/api?username=dynamicwhitehat)](https://github.com/dynamicwhitehat/github-readme-stats)
 
